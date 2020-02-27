@@ -19,6 +19,6 @@
 - Que utilize algum framework (bootstrap, materials, html/css puro, etc);
 - Que seja responsiva;
 
-Após a conclusão, encaminhar o link do repositório para [estagio@utech.com.br](estagio@utech.com.br)
+Após a conclusão, encaminhar o link do repositório para **estagio@utech.com.br**
 
 Boa sorte!
