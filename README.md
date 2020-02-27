@@ -1,6 +1,7 @@
 # Desafio uTech
 
 ## Regras Gerais
+- Você deve criar uma aplicação dividida em Backend e Frontend;
 - Você pode utilizar a tecnologia que preferir (Php, Python, Javascript, etc);
 - O repositório do desafio deve ser clonado no github;
 - Documente como seu projeto deve ser rodado em ambiente linux (README.md);
@@ -14,7 +15,7 @@
 
 ## Frontend: Criar uma interface WEB:
 - Utilize a tecnologia que preferir (react, vue, jquery, vanilla, etc)
-- que consuma a API (backend);
-- que utilize algum framework (bootstrap, materials, html/css puro, etc);
-- que seja responsiva;
+- Que consuma a API (backend);
+- Que utilize algum framework (bootstrap, materials, html/css puro, etc);
+- Que seja responsiva;
 
