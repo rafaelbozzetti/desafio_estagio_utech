@@ -1,15 +1,15 @@
-# Desafio uTech
+# Desafio Estágio uTech
 
 ## Regras Gerais
 - Você deve criar uma aplicação dividida em Backend e Frontend;
 - Você pode utilizar a tecnologia que preferir (Php, Python, Javascript, etc);
-- O repositório do desafio deve ser clonado no github;
+- O repositório do desafio deve ser clonado e estar público no github;
 - Documente como seu projeto deve ser rodado em ambiente linux (README.md);
 
 
 ## Backend: Criar uma API REST:
 - Não é necessário autenticação (api pública);
-- Os dados devem ser extraídos de uma api's de terceiros (api pública);
+- Os dados devem ser extraídos de uma api de terceiros (api pública);
 - Deve ter 2 ou mais endpoints (rotas);
 
 
@@ -19,3 +19,6 @@
 - Que utilize algum framework (bootstrap, materials, html/css puro, etc);
 - Que seja responsiva;
 
+Após a conclusão, encaminhar o link do repositório para [estagio@utech.com.br](estagio@utech.com.br)
+
+Boa sorte!
